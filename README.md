@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHEIKHH-0555
+- 👋 Hi, I’m @mohd taha
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...python programming
 - 💞️ I’m looking to collaborate on ...frnds
